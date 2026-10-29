@@ -125,12 +125,9 @@ clientes = cliente_repo.get_all()
 
 ## 8. Identificação do Grupo
 
-* **Nome do Sistema:** `[Preencher]`
+* **Nome do Sistema:** `[EventFlow — Gestão de Congressos e Workshops]`
 * **Link da Atividade (Google Drive):** [Propostas de Projetos CRUD - Engenharia de Software](https://docs.google.com/document/d/13PCZjxVaOd-qq50ej_Bu1DkNeEINvOH17ZgtNX_fxKE/edit)
-* **Tema Escolhido:** `[Preencher]`
+* **Tema Escolhido:** `[EventFlow — Gestão de Congressos e Workshops]`
 * **Equipe de Desenvolvimento:**
-  - `[Nome Completo]`
-  - `[Nome Completo]`
-  - `[Nome Completo]`
-  - `[Nome Completo]`
-  - `[Nome Completo]`
+  - `[Marciano Pereira da Silva]`
+  - `[Joselmar Dourado Moitinho Neto]`
