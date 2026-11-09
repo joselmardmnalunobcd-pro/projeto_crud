@@ -78,6 +78,7 @@ Toda ação do menu é executada dentro de `try/except`: entradas inválidas (te
 
 ## Equipe
 
-| Integrante | Contribuição |
+| Integrantes | Contribuição |
 |---|---|
-| _preencher_ | _preencher_ |
+| _Joselmar Dourado
+e Marciano Pereira_ | _Renan_ |
