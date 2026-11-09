@@ -81,4 +81,4 @@ Toda ação do menu é executada dentro de `try/except`: entradas inválidas (te
 | Integrantes | Contribuição |
 |---|---|
 | Joselmar Dourado
-e Marciano Pereira | _Renan_ |
+ Marciano Pereira | _Renan_ |
